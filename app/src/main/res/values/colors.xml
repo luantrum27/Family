@@ -10,4 +10,7 @@
     <color name="darker_gray">#B3B5B7</color>
     <color name="gray_bg">#E5E7E9</color>
     <color name="green">#63D2C7</color>
+    <color name="gray">#B3BBBA</color>
+    <color name="light_green">#D4E9E7</color>
+    <color name="purple">#B297E0</color>
 </resources>
